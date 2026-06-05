@@ -251,7 +251,8 @@ sns.pairplot(
 
 plt.show()
 ```
- ![Uploading image.png…]()
+<img width="975" height="903" alt="image" src="https://github.com/user-attachments/assets/5dbbd2fe-2e3e-455a-972d-d20f9f78546e" />
+
 
 ---
 
