@@ -5,6 +5,8 @@
 This project performs customer data analysis using Python. Data is collected from multiple sources such as CSV files, JSON files, SQLite databases, and APIs. The dataset is cleaned, analyzed, visualized, and profiled to generate meaningful business insights.
 
 ---
+<img width="1000" height="760" alt="gif" src="https://github.com/user-attachments/assets/c320ce15-0272-4979-9c0a-e5a4493e5b54" />
+
 
 # 🚀 Technologies Used
 
