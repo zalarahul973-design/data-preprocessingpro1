@@ -42,6 +42,8 @@ with open("customer_data.json", "r") as file:
 
 print(json_data)
 ```
+<img width="1504" height="846" alt="gif1s" src="https://github.com/user-attachments/assets/8ec0c703-1022-4545-98b3-808cab2561f8" />
+
 
 ---
 
